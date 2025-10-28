@@ -1,3 +1,5 @@
+---
+
 ```markdown
 # 🛍️ Simple E-Commerce (Spring + Loose Coupling)
 
@@ -145,4 +147,8 @@ Select Payment Method:
 
 ```
 
+---
+
+Would you like me to also add a **small diagram (ASCII or markdown-based)** showing how Controller → Service → Repository → Payment layers interact?  
+It makes the README look even cooler for GitHub.
 ```
