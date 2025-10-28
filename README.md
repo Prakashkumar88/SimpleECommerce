@@ -1,9 +1,4 @@
----
-
 ```markdown
-# 🛍️ Simple E-Commerce (Spring + Loose Coupling)
-
-A layered **Spring-based E-Commerce simulation app** demonstrating **loose coupling** and **dependency injection** using annotations like `@Controller`, `@Service`, `@Repository`, and `@Autowired`.
 
 ---
 
