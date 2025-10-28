@@ -1,8 +1,3 @@
----
-```markdown
-
----
-
 ## 🚀 Overview
 
 This project simulates a simple E-Commerce system built using **Spring Core** (no Spring Boot).  
